@@ -104,4 +104,4 @@ The models powering this system were trained on the comprehensive CICIDS 2017 Da
 
 👨‍💻 Credits
 
-Developed by Nara Likhith & Shiva Kumar
+Developed by Nara Likhith 
