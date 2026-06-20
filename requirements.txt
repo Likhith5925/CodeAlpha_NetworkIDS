@@ -1,0 +1,20 @@
+Core Data Science & ML Libraries
+
+pandas2.2.0
+numpy1.26.4
+scikit-learn1.4.0
+xgboost2.0.3
+joblib==1.3.2
+
+Network Analysis
+
+scapy==2.5.0
+
+Web Dashboard & Visualization
+
+streamlit1.31.0
+plotly5.18.0
+
+Note: sqlite3 and hashlib are part of the Python Standard Library
+
+and do not need to be installed via pip.
