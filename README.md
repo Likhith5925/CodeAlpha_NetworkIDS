@@ -46,9 +46,6 @@ AI-NIDS/
 
 This system is optimized for Kali Linux or Debian-based distributions. Ensure you have Python 3 installed.
 
-# Clone the repository
-git clone [https://github.com/YOUR_USERNAME/AI-NIDS.git](https://github.com/YOUR_USERNAME/AI-NIDS.git)
-cd AI-NIDS
 
 # Install the required Python libraries
 pip install -r requirements.txt
